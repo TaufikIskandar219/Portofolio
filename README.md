@@ -1,4 +1,4 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+# [Taufik Iskandar Portfolio]
 
 ![image](https://github.com/user-attachments/assets/1e1db0bc-9c5c-4f15-9622-e94321b56bca)
 
