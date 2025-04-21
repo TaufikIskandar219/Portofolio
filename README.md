@@ -5,9 +5,7 @@
 
 The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
 
-[![Get Started]()
-[![Discord]()  
-[![Twitter Follow](https://www.linkedin.com/in/taufik-iskandar219/)
+[![Linkdin Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://www.linkedin.com/in/taufik-iskandar219/)
 
 ️**Hello everyone, my name is Taufik Iskandar. I am currently working as a Data Analyst with over one year of experience. I graduated with a degree in Computer Science from Universitas Amikom Yogyakarta.
 
